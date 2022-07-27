@@ -35,7 +35,7 @@ You Can Deploy your API on heroku or your VPS
 
 - Deploy the bot here
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/anishgowda21/Music-downloader-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/jakineog/NewMusicDLBot)
 
 ## Environment Variables
 
